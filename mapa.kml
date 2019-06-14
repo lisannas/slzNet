@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Mapa</name>
+    <description>sas</description>
+    <NetworkLink>
+      <name>Mapa</name>
+      <Link>
+        <href><![CDATA[http://www.google.com/maps/d/kml?forcekml=1&mid=16RicPbWbZbQHzgR3G-vg0Hjni0LvnmeH]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
